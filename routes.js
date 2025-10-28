@@ -1,3 +1,5 @@
+//route folder is not working now, i decided to  go on without it
+
 const express = require('express');
 const router = express.Router();
 const {createOrder,verifyPayment} = require('server');
